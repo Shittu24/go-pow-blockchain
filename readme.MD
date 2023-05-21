@@ -1,4 +1,4 @@
-Few days back, we created a very simple blockchain on my youtube channel.
+Few days back, I created a very simple blockchain program with Go.
 It demonstrated what a blockchain is really well, but blockchains need some consensus mechanism.
 
 In this example, I have shown a very simple POW consensus mechanism.
